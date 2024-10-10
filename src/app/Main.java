@@ -1,5 +1,6 @@
 package app;
 
+// importando todas as classes do pacote models.
 import models.*;
 
 public class Main {
